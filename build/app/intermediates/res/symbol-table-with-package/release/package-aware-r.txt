@@ -1,0 +1,7 @@
+com.example.sqllitetest
+color indigo
+drawable launch_background
+mipmap ic_launcher
+mipmap icon
+mipmap splash
+style LaunchTheme

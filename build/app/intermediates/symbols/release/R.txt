@@ -1,0 +1,6 @@
+int color indigo 0x7f010000
+int drawable launch_background 0x7f020000
+int mipmap ic_launcher 0x7f030000
+int mipmap icon 0x7f030001
+int mipmap splash 0x7f030002
+int style LaunchTheme 0x7f040000
